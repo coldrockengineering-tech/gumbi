@@ -1,0 +1,31 @@
+# Image Files for Netlify Deployment
+
+This folder should contain the following image files:
+
+1. hero-meat.jpg - Hero section background image
+2. combo-1.jpg - First combo package image
+3. beef-stew.jpg - Beef stew product image
+4. beef-chuck.jpg - Beef chuck product image
+5. tbone-steak.jpg - T-bone steak product image
+6. goat-meat.jpg - Goat meat product image
+7. hard-body-chicken.jpg - Hard body chicken product image
+8. chicken.jpg - Chicken product image
+9. mince-meat.jpg - Mince meat product image
+10. eggs.jpg - Eggs product image
+11. pork.jpg - Pork product image
+12. umlimi-wors.jpg - Umlimi wors product image
+13. beef-steak.jpg - Beef steak product image
+14. short-ribs.jpg - Short ribs product image
+
+INSTRUCTIONS FOR NETLIFY:
+1. Replace these placeholder images with actual product photos
+2. Keep the filenames exactly as listed above
+3. Use JPG format for best performance
+4. Recommended image sizes:
+   - Hero image: 600x400px
+   - Combo image: 400x300px
+   - Product images: 300x300px
+   - Large product images: 400x400px
+
+The website will display placeholder SVG graphics if images are missing,
+so you can deploy and add images later.
